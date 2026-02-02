@@ -38,25 +38,6 @@ I enjoy building clean UIs, integrating real-time features, and adding AI capabi
 
 ---
 
-### 🚀 Selected Projects
-
-Here are some of the systems I've worked on:
-
-<div align="center">
-  
-| Project | Tech Stack | Highlights |
-|---------|------------|------------|
-| **Betting Platform** (Paril Tech) | React, Redux, WebSockets, Stripe | 50K-100K DAU, <100ms latency, 15+ casino games |
-| **Transport Platform** (Sem-Bus) | React, Redux, LiqPay, PDF gen | Real-time seat tracking, 60% faster search, 30% less manual work |
-| **HR Platform** | Next.js, Socket.IO, Twilio, Stripe | ATS pipelines, real-time scheduling, voice calling |
-| **BJJ Academy Platform** | React, i18next, Google Maps, Stripe | Booking system, multilingual, real-time availability |
-| **Compliance & Real Estate Tools** | Mapbox GL, TanStack Query, FullCalendar | Interactive maps, dark mode, advanced filtering |
-| **FSM Admin & Video Processing** | React 19, TanStack Table, Mapbox GL | State machine visualization, video analysis dashboard |
-
-</div>
-
----
-
 ### 📊 GitHub Activity
 
 <div align="center">
