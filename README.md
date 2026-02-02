@@ -8,7 +8,7 @@
   <a href="https://t.me/SDmytroV" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="mailto:sokolovskyidm@gmail.com" target="_blank">
+  <a href="mailto:sokolovskydm@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/DmytroSokolovskyi" target="_blank">
@@ -20,33 +20,33 @@
 
 ### 🧑‍💻 About Me
 
-Frontend Developer with 5+ years of experience delivering scalable web applications across Real Estate, E-commerce, HR, Construction, and Gambling domains.[file:8]  
-Expert in React 19, TypeScript 5.9, Vite, Redux Toolkit, and TanStack Query, with a focus on performance (90+ Lighthouse) and high-traffic systems (50K–100K DAU).[file:8]  
-I enjoy building clean UIs, integrating real-time features, and adding AI capabilities (Gemini, Imagen APIs) to products.[file:8]  
+Frontend Developer with 5+ years of experience delivering scalable web applications across Real Estate, E-commerce, HR, Construction, and Gambling domains.  
+Expert in **React 19**, **TypeScript 5.9**, **Vite**, **Redux Toolkit**, and **TanStack Query**, with a focus on **performance** (90+ Lighthouse) and **high-traffic systems** (50K–100K DAU).  
+I enjoy building clean UIs, integrating real-time features, and adding AI capabilities (Gemini, Imagen APIs) to products.  
 
 ---
 
 ### 🛠 Tech Stack
 
-- **Frontend:** React 19, Next.js, TypeScript 5.9, JavaScript (ES6+), Vue/Nuxt.[file:8]  
-- **State / Data:** Redux Toolkit, Zustand, TanStack Query, React Hook Form.[file:8]  
-- **Backend:** Node.js, Express, Firebase.[file:8]  
-- **UI / Styling:** Tailwind, shadcn/ui, SCSS, CSS Modules.[file:8]  
-- **Domain Integrations:** Stripe, LiqPay, Fondy, Mapbox GL, Google Maps API.[file:8]  
-- **Tools:** Git, Postman, Vite, Webpack.[file:8]  
+- **Frontend:** React 19, Next.js, TypeScript 5.9, JavaScript (ES6+), Vue/Nuxt  
+- **State / Data:** Redux Toolkit, Zustand, TanStack Query, React Hook Form  
+- **Backend:** Node.js, Express, Firebase  
+- **UI / Styling:** Tailwind, shadcn/ui, SCSS, CSS Modules  
+- **Domain Integrations:** Stripe, LiqPay, Fondy, Mapbox GL, Google Maps API  
+- **Tools:** Git, Postman, Vite, Webpack  
 
 ---
 
-### 🚀 Selected Work
+### 🚀 Selected Projects
 
-Here are some of the systems I’ve worked on (from my professional projects):[file:8]
+Here are some of the systems I’ve worked on:
 
-- **Betting Platform (Paril Tech)** – 50K–100K+ daily users, WebSockets with \<100ms latency, 15+ casino games, payment processing (LiqPay, Stripe).[file:8]  
-- **Transport Platform (Sem-Bus)** – Real-time seat tracking, PDF tickets at scale, route search optimized by 60%, dispatcher admin reducing manual work by 30%.[file:8]  
-- **HR Platform** – ATS pipelines, CKEditor 5 editor, Twilio Voice calling, Stripe payments, scheduling with React Big Calendar, real-time updates via Socket.IO.[file:8]  
-- **BJJ Academy Platform** – Training bookings, memberships, Stripe payments, Google Maps, multilingual support (i18next), real-time availability tracking.[file:8]  
-- **Compliance & Real Estate Tools** – Compliance manager and real estate platform with Mapbox GL, FullCalendar, dark mode, advanced filtering, and reporting.[file:8]  
-- **FSM Admin Panel & Video Processing Platform** – Finite state machine visualization, analytics dashboards, and interactive video processing with TanStack Table & Mapbox GL.[file:8]  
+- **Betting Platform (Paril Tech)** – 50K–100K+ daily users, WebSockets with <100ms latency, 15+ casino games, payment processing (LiqPay, Stripe)  
+- **Transport Platform (Sem-Bus)** – Real-time seat tracking, PDF tickets at scale, route search optimized by 60%, dispatcher admin reducing manual work by 30%  
+- **HR Platform** – ATS pipelines, CKEditor 5, Twilio Voice, Stripe payments, scheduling (React Big Calendar), real-time updates via Socket.IO  
+- **BJJ Academy Platform** – Training bookings, memberships, Stripe payments, Google Maps, i18next, real-time availability tracking  
+- **Compliance & Real Estate Tools** – Compliance manager and real estate platform with Mapbox GL, FullCalendar, dark mode, advanced filtering, and reporting  
+- **FSM Admin Panel & Video Processing Platform** – Finite state machine visualization, analytics dashboards, and interactive video processing with TanStack Table & Mapbox GL  
 
 ---
 
@@ -57,22 +57,22 @@ Here are some of the systems I’ve worked on (from my professional projects):[f
 
 ---
 
-### 🏆 Key Highlights
+### 🏆 Key Achievements
 
-- Built and maintained platforms serving 50K–100K+ daily users with 99.9% uptime.[file:8]  
-- Reduced bet slip processing time by 40% and dispatcher manual operations by 30% through better state management and tooling.[file:8]  
-- Optimized route search by 60% using caching and smarter queries.[file:8]  
-- Achieved 90+ Lighthouse performance scores with code splitting, lazy loading, and targeted optimizations.[file:8]  
-- Integrated AI APIs (Gemini 2.5, Imagen 3.0) for text and image generation features in production apps.[file:8]  
+- Built and maintained platforms serving **50K–100K+ daily users** with **99.9% uptime**  
+- Reduced **bet slip processing time by 40%** and **dispatcher manual operations by 30%** through improved state management and tooling  
+- **Optimized route search by 60%** using caching and smarter queries  
+- Achieved **90+ Lighthouse performance scores** with code splitting, lazy loading, and targeted optimizations  
+- Integrated **AI APIs (Gemini 2.5, Imagen 3.0)** for text and image generation in production applications  
 
 ---
 
 ### 📫 Let’s Connect
 
-- 🌍 **Location:** Lviv, Ukraine.[file:8]  
+- 🌍 **Location:** Lviv, Ukraine  
 - 💼 **LinkedIn:** [Dmytro Sokolovskyi](https://www.linkedin.com/in/dmytro-sokolovskyi-944437220)  
 - ✈ **Telegram:** [@SDmytroV](https://t.me/SDmytroV)  
-- 📧 **Email:** [sokolovskyidm@gmail.com](mailto:sokolovskyidm@gmail.com)  
+- 📧 **Email:** [sokolovskydm@gmail.com](mailto:sokolovskydm@gmail.com)  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DmytroSokolovskyi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
