@@ -60,10 +60,29 @@ Here are some of the systems I've worked on:
 ### 📊 GitHub Activity
 
 <div align="center">
-  
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DmytroSokolovskyi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DmytroSokolovskyi&layout=compact&theme=radical&hide_border=true&langs_count=6) |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![GitHub Streak](https://streak-stats.demolab.com?user=DmytroSokolovskyi&theme=radical&hide_border=true) | ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DmytroSokolovskyi&theme=github&hide_border=true) |
+
+<table>
+  <tr>
+    <td align="center">
+      <img height="200" src="https://github-readme-stats.vercel.app/api?username=DmytroSokolovskyi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      <br><strong>GitHub Stats</strong>
+    </td>
+    <td align="center">
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmytroSokolovskyi&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+      <br><strong>Top Languages</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img height="200" src="https://streak-stats.demolab.com?user=DmytroSokolovskyi&theme=radical&hide_border=true" alt="GitHub Streak" />
+      <br><strong>Contribution Streak</strong>
+    </td>
+    <td align="center">
+      <img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=DmytroSokolovskyi&theme=github&hide_border=true&area=true" alt="Activity Graph" />
+      <br><strong>Activity Graph</strong>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -71,13 +90,19 @@ Here are some of the systems I've worked on:
 
 ### 🏆 Key Achievements
 
-- 🚀 **Built and maintained platforms** serving **50K–100K+ daily users** with **99.9% uptime**
-- ⚡ **Reduced bet slip processing time by 40%** through state management optimization
-- 🛠️ **Cut dispatcher manual operations by 30%** with custom admin tooling
-- 🔍 **Optimized route search by 60%** using caching and smarter queries
-- 📈 **Achieved 90+ Lighthouse scores** via code splitting and lazy loading
-- 🤖 **Integrated AI APIs** (Gemini 2.5, Imagen 3.0) for text and image generation features
-- 🧩 **Built reusable component library** used across 5+ projects, cutting dev time by 25%
+<div align="center">
+
+| Metric | Achievement | Impact |
+|--------|-------------|--------|
+| **Platform Scale** | Built for 50K–100K+ daily users | 99.9% uptime, stable under load |
+| **Performance** | Reduced bet slip processing by 40% | Faster UX, better state management |
+| **Automation** | Cut dispatcher work by 30% | Less manual operations, admin tools |
+| **Search Speed** | Optimized route search by 60% | Caching + smarter queries |
+| **Lighthouse Score** | Achieved 90+ performance | Code splitting, lazy loading |
+| **AI Integration** | Added Gemini 2.5, Imagen 3.0 | Text/image gen features in production |
+| **Component Library** | Reusable across 5+ projects | 25% faster development time |
+
+</div>
 
 ---
 
