@@ -16,6 +16,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=22C55E&center=true&vCenter=true&width=435&lines=Building+scalable+web+apps;High+traffic+systems+%2850K-100K+DAU%29;React+%7C+TypeScript+%7C+Next.js;90%2B+Lighthouse+performance;AI+integrations+%28Gemini%2C+Imagen%29" alt="Typing SVG" />
+</p>
+
 ---
 
 ### 🧑‍💻 About Me
@@ -28,52 +32,66 @@ I enjoy building clean UIs, integrating real-time features, and adding AI capabi
 
 ### 🛠 Tech Stack
 
-- **Frontend:** React 19, Next.js, TypeScript 5.9, JavaScript (ES6+), Vue/Nuxt  
-- **State / Data:** Redux Toolkit, Zustand, TanStack Query, React Hook Form  
-- **Backend:** Node.js, Express, Firebase  
-- **UI / Styling:** Tailwind, shadcn/ui, SCSS, CSS Modules  
-- **Domain Integrations:** Stripe, LiqPay, Fondy, Mapbox GL, Google Maps API  
-- **Tools:** Git, Postman, Vite, Webpack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux,nodejs,express,firebase,git,vite,webpack&perline=7" alt="Tech Stack" />
+</p>
 
 ---
 
 ### 🚀 Selected Projects
 
-Here are some of the systems I’ve worked on:
+Here are some of the systems I've worked on:
 
-- **Betting Platform (Paril Tech)** – 50K–100K+ daily users, WebSockets with <100ms latency, 15+ casino games, payment processing (LiqPay, Stripe)  
-- **Transport Platform (Sem-Bus)** – Real-time seat tracking, PDF tickets at scale, route search optimized by 60%, dispatcher admin reducing manual work by 30%  
-- **HR Platform** – ATS pipelines, CKEditor 5, Twilio Voice, Stripe payments, scheduling (React Big Calendar), real-time updates via Socket.IO  
-- **BJJ Academy Platform** – Training bookings, memberships, Stripe payments, Google Maps, i18next, real-time availability tracking  
-- **Compliance & Real Estate Tools** – Compliance manager and real estate platform with Mapbox GL, FullCalendar, dark mode, advanced filtering, and reporting  
-- **FSM Admin Panel & Video Processing Platform** – Finite state machine visualization, analytics dashboards, and interactive video processing with TanStack Table & Mapbox GL  
+<div align="center">
+  
+| Project | Tech Stack | Highlights |
+|---------|------------|------------|
+| **Betting Platform** (Paril Tech) | React, Redux, WebSockets, Stripe | 50K-100K DAU, <100ms latency, 15+ casino games |
+| **Transport Platform** (Sem-Bus) | React, Redux, LiqPay, PDF gen | Real-time seat tracking, 60% faster search, 30% less manual work |
+| **HR Platform** | Next.js, Socket.IO, Twilio, Stripe | ATS pipelines, real-time scheduling, voice calling |
+| **BJJ Academy Platform** | React, i18next, Google Maps, Stripe | Booking system, multilingual, real-time availability |
+| **Compliance & Real Estate Tools** | Mapbox GL, TanStack Query, FullCalendar | Interactive maps, dark mode, advanced filtering |
+| **FSM Admin & Video Processing** | React 19, TanStack Table, Mapbox GL | State machine visualization, video analysis dashboard |
+
+</div>
 
 ---
 
 ### 📊 GitHub Activity
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DmytroSokolovskyi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DmytroSokolovskyi&layout=compact&theme=radical&hide_border=true) |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+<div align="center">
+  
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DmytroSokolovskyi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DmytroSokolovskyi&layout=compact&theme=radical&hide_border=true&langs_count=6) |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![GitHub Streak](https://streak-stats.demolab.com?user=DmytroSokolovskyi&theme=radical&hide_border=true) | ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DmytroSokolovskyi&theme=github&hide_border=true) |
+
+</div>
 
 ---
 
 ### 🏆 Key Achievements
 
-- Built and maintained platforms serving **50K–100K+ daily users** with **99.9% uptime**  
-- Reduced **bet slip processing time by 40%** and **dispatcher manual operations by 30%** through improved state management and tooling  
-- **Optimized route search by 60%** using caching and smarter queries  
-- Achieved **90+ Lighthouse performance scores** with code splitting, lazy loading, and targeted optimizations  
-- Integrated **AI APIs (Gemini 2.5, Imagen 3.0)** for text and image generation in production applications  
+- 🚀 **Built and maintained platforms** serving **50K–100K+ daily users** with **99.9% uptime**
+- ⚡ **Reduced bet slip processing time by 40%** through state management optimization
+- 🛠️ **Cut dispatcher manual operations by 30%** with custom admin tooling
+- 🔍 **Optimized route search by 60%** using caching and smarter queries
+- 📈 **Achieved 90+ Lighthouse scores** via code splitting and lazy loading
+- 🤖 **Integrated AI APIs** (Gemini 2.5, Imagen 3.0) for text and image generation features
+- 🧩 **Built reusable component library** used across 5+ projects, cutting dev time by 25%
 
 ---
 
-### 📫 Let’s Connect
+### 📫 Let's Connect
 
-- 🌍 **Location:** Lviv, Ukraine  
-- 💼 **LinkedIn:** [Dmytro Sokolovskyi](https://www.linkedin.com/in/dmytro-sokolovskyi-944437220)  
-- ✈ **Telegram:** [@SDmytroV](https://t.me/SDmytroV)  
-- 📧 **Email:** [sokolovskydm@gmail.com](mailto:sokolovskydm@gmail.com)  
+<div align="center">
+
+🌍 **Location:** Lviv, Ukraine  
+💼 **LinkedIn:** [Dmytro Sokolovskyi](https://www.linkedin.com/in/dmytro-sokolovskyi-944437220)  
+✈️ **Telegram:** [@SDmytroV](https://t.me/SDmytroV)  
+📧 **Email:** [sokolovskydm@gmail.com](mailto:sokolovskydm@gmail.com)
+
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DmytroSokolovskyi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DmytroSokolovskyi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
