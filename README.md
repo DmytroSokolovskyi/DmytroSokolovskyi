@@ -61,7 +61,7 @@ I enjoy building clean UIs, integrating real-time features, and adding AI capabi
 
 ### 🏛️ Professional Workflow
 
-<div align="center" width="100%">
+<div align="center" width="90%">
   <table border="0" width="90%" cellspacing="0" cellpadding="0">
     <tr>
       <td width="50%" align="center" style="vertical-align: middle; padding-right: 5px;">
