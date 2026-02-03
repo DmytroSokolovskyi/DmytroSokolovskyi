@@ -38,8 +38,9 @@ I enjoy building clean UIs, integrating real-time features, and adding AI capabi
 
 ---
 
-### 📊 GitHub Activity
+---
 
+### 📊 GitHub Activity
 
 <div align="center">
   <table border="0" width="100%">
@@ -60,7 +61,7 @@ I enjoy building clean UIs, integrating real-time features, and adding AI capabi
   <br/>
 
   <a href="https://github.com/DmytroSokolovskyi">
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=DmytroSokolovskyi&theme=radical&hide_border=true" alt="GitHub Streak" />
+    <img width="100%" src="https://streak-stats.demolab.com/?user=DmytroSokolovskyi&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -73,7 +74,7 @@ I enjoy building clean UIs, integrating real-time features, and adding AI capabi
     <tr>
       <td width="55%" align="center" style="vertical-align: middle;">
         <a href="https://github.com/DmytroSokolovskyi">
-          <img src="https://github-readme-stats.vercel.app/api?username=DmytroSokolovskyi&show_icons=true&theme=radical&count_private=true&cache_bust=fix" alt="GitHub Stats Widget" style="max-width: 100%;" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DmytroSokolovskyi&show_icons=true&theme=radical&count_private=true&cache_bust=final_fix" alt="GitHub Stats Widget" style="max-width: 100%;" />
         </a>
       </td>
       <td width="45%" align="left" style="vertical-align: middle;">
@@ -92,6 +93,8 @@ I enjoy building clean UIs, integrating real-time features, and adding AI capabi
     </tr>
   </table>
 </div>
+
+
 ### 🏆 Key Achievements
 
 - 🚀 **Built and maintained platforms** serving **50K–100K+ daily users** with **99.9% uptime**
