@@ -45,15 +45,23 @@ I enjoy building clean UIs, integrating real-time features, and adding AI capabi
   <table border="0" width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmytroSokolovskyi&theme=radical" alt="Dmytro's GitHub Details" />
+        <a href="https://github.com/DmytroSokolovskyi">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DmytroSokolovskyi&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+        </a>
       </td>
       <td width="50%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=DmytroSokolovskyi&theme=radical&force_reload=1" alt="Most Used Languages" />
+        <a href="https://github.com/DmytroSokolovskyi">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DmytroSokolovskyi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+        </a>
       </td>
     </tr>
   </table>
+  
   <br/>
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmytroSokolovskyi&theme=radical" alt="Dmytro's Overall GitHub Stats" />
+
+  <a href="https://github.com/DmytroSokolovskyi">
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=DmytroSokolovskyi&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
