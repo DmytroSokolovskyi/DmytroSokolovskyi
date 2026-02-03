@@ -48,7 +48,7 @@ I enjoy building clean UIs, integrating real-time features, and adding AI capabi
           <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DmytroSokolovskyi&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" style="width: 100%; max-width: 495px;" />
         </a>
       </td>
-      <td width="50%" height="160px" align="center" style="padding-left: 5px;">
+      <td width="50%" height="160px" align="center" style="padding-left: 5px; height: 160px ">
         <a href="https://github.com/DmytroSokolovskyi">
           <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DmytroSokolovskyi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 100%; max-width: 495px;" />
         </a>
