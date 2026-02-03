@@ -42,18 +42,23 @@ I enjoy building clean UIs, integrating real-time features, and adding AI capabi
 
 
 <div align="center">
-  <a href="https://github.com/DmytroSokolovskyi">
-    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmytroSokolovskyi&theme=radical" alt="GitHub Details" />
-  </a>
-  
-  <a href="https://github.com/DmytroSokolovskyi">
-    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=DmytroSokolovskyi&theme=radical" alt="Most Used Languages" />
-  </a>
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/DmytroSokolovskyi">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmytroSokolovskyi&theme=radical" alt="GitHub Profile Details" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/DmytroSokolovskyi">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=DmytroSokolovskyi&theme=radical" alt="Most Used Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
-  <br/>
-
   <a href="https://github.com/DmytroSokolovskyi">
-    <img width="96.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmytroSokolovskyi&theme=radical" alt="Overall Stats" />
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmytroSokolovskyi&theme=radical" alt="Overall Stats" />
   </a>
 </div>
 
