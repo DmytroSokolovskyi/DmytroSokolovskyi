@@ -43,11 +43,17 @@ I enjoy building clean UIs, integrating real-time features, and adding AI capabi
 
 <div align="center">
   <a href="https://github.com/DmytroSokolovskyi">
-    <img height="190" src="https://github-readme-stats.vercel.app/api?username=DmytroSokolovskyi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmytroSokolovskyi&theme=radical" alt="GitHub Details" />
   </a>
   
   <a href="https://github.com/DmytroSokolovskyi">
-    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmytroSokolovskyi&layout=compact&theme=radical&hide_border=true&langs_count=6&cache_seconds=1800" alt="Top Languages" />
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=DmytroSokolovskyi&theme=radical" alt="Most Used Languages" />
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/DmytroSokolovskyi">
+    <img width="96.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmytroSokolovskyi&theme=radical" alt="Overall Stats" />
   </a>
 </div>
 
