@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Dmytro Sokolovskyi</h1>
+<h1 align="center">👋 Привіт, я Дмитро Соколовський</h1>
 <h3 align="center">Frontend Developer (React 19 / Next.js / TypeScript)</h3>
 
 <p align="center">
@@ -20,13 +20,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=22C55E&center=true&vCenter=true&width=435&lines=Building+scalable+web+apps;High+traffic+systems+%2850K-100K+DAU%29;React+%7C+TypeScript+%7C+Next.js;90%2B+Lighthouse+performance;AI+integrations+%28Gemini%2C+Imagen%29" alt="Typing SVG" />
 </p>
 
-🧑‍💻 About Me
+🧑‍💻 Про мене
 
-Frontend Developer with 5+ years of experience delivering scalable web applications across Real Estate, E-commerce, HR, Construction, and Gambling domains.
+Frontend Developer з досвідом понад 5 років у створенні масштабованих веб-додатків для сфер нерухомості, електронної комерції, HR, будівництва та гемблінгу.
 
-Expert in React 19, TypeScript 5.9, Vite, Redux Toolkit, and TanStack Query, with a focus on performance (90+ Lighthouse) and high-traffic systems (50K–100K DAU).
+Експерт у React 19, TypeScript 5.9, Vite, Redux Toolkit та TanStack Query, з акцентом на продуктивність (90+ Lighthouse) та високонавантажені системи (50K–100K DAU).
 
-I enjoy building clean UIs, integrating real-time features, and adding AI capabilities (Gemini, Imagen APIs) to products.
+Мені подобається створювати чисті інтерфейси, впроваджувати функції реального часу та додавати можливості ШІ (Gemini, Imagen API) до продуктів.
 
 🛠 Tech Stack
 
@@ -34,7 +34,7 @@ I enjoy building clean UIs, integrating real-time features, and adding AI capabi
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux,nodejs,express,firebase,git,vite,webpack&perline=7" alt="Tech Stack" />
 </p>
 
-📊 GitHub Activity
+📊 Активність у GitHub
 
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
 <tr>
@@ -51,58 +51,55 @@ I enjoy building clean UIs, integrating real-time features, and adding AI capabi
 </tr>
 </table>
 
-🏛️ Professional Workflow
+🏛️ Професійний робочий процес
 
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%" align="center" style="vertical-align: middle;">
 <a href="https://github.com/DmytroSokolovskyi">
-<img src="https://www.google.com/search?q=https://github-readme-stats-sigma-five.vercel.app/api%3Fusername%3DDmytroSokolovskyi%26show_icons%3Dtrue%26theme%3Dradical%26count_private%3Dtrue%26cache_bust%3D7" width="100%" alt="GitHub Stats Widget" />
+<!-- Виправлено URL: видалено префікс Google Search -->
+<img src="https://www.google.com/search?q=https://github-readme-stats-sigma-five.vercel.app/api%3Fusername%3DDmytroSokolovskyi%26show_icons%3Dtrue%26theme%3Dradical%26count_private%3Dtrue%26cache_bust%3D10" width="100%" alt="GitHub Stats Widget" />
 </a>
 </td>
 <td width="50%" align="center" style="vertical-align: middle;">
 <div style="background-color: #1a1b27; color: #a9b1d6; padding: 20px; border-radius: 5px; border: 1px solid #1a1b27; min-height: 165px; box-sizing: border-box; text-align: left; margin-left: 5px;">
 <h4 style="margin-top: 0; color: #fe428e; font-family: Segoe UI, Ubuntu, sans-serif;">Primary Workflow</h4>
 <p style="font-size: 14px; margin-bottom: 8px;">
-As a Senior Developer, my major contributions are in a private corporate <b>Bitbucket</b> environment.
+Як Senior Developer, основну частину роботи я виконую в корпоративному середовищі <b>Bitbucket</b>.
 </p>
 <ul style="font-size: 13px; padding-left: 15px; margin: 0;">
-<li>Daily Active Development</li>
-<li>Architecture & Code Reviews</li>
-<li>High-traffic Systems (100K+ DAU)</li>
+<li>Щоденна активна розробка</li>
+<li>Архітектура та рев'ю коду</li>
+<li>Високонавантажені системи (100K+ DAU)</li>
 </ul>
 </div>
 </td>
 </tr>
 </table>
 
-🏆 Key Achievements
+🏆 Ключові досягнення
 
-🚀 Built and maintained platforms serving 50K–100K+ daily users with 99.9% uptime
+🚀 Розробка та підтримка платформ, що обслуговують 50K–100K+ користувачів щодня з аптаймом 99.9%
 
-⚡ Reduced bet slip processing time by 40% through state management optimization
+⚡ Скорочення часу обробки бет-сліпів на 40% завдяки оптимізації стейт-менеджменту
 
-🛠️ Cut dispatcher manual operations by 30% with custom admin tooling
+🛠️ Зменшення ручних операцій диспетчерів на 30% за допомогою кастомного адмін-інструментарію
 
-🔍 Optimized route search by 60% using caching and smarter queries
+🔍 Оптимізація пошуку маршрутів на 60% через кешування та розумні запити
 
-📈 Achieved 90+ Lighthouse scores via code splitting and lazy loading
+📈 Досягнення 90+ балів Lighthouse через code splitting та lazy loading
 
-🤖 Integrated AI APIs (Gemini 2.5, Imagen 3.0) for text and image generation features
+🤖 Інтеграція AI API (Gemini 2.5, Imagen 3.0) для генерації тексту та зображень
 
-🧩 Built reusable component library used across 5+ projects, cutting dev time by 25%
+🧩 Створення бібліотеки перевикористовуваних компонентів для 5+ проектів, що скоротило час розробки на 25%
 
-📫 Let's Connect
+📫 Зв'язок зі мною
 
 <p align="center">
-🌍 <b>Location:</b> Lviv, Ukraine  |
-
-💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/dmytro-sokolovskyi-944437220">Dmytro Sokolovskyi</a>  |
-
-✈️ <b>Telegram:</b> <a href="https://t.me/SDmytroV">@SDmytroV</a>  |
-
+🌍 <b>Локація:</b> Львів, Україна |
+💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/dmytro-sokolovskyi-944437220">Dmytro Sokolovskyi</a> |
+✈️ <b>Telegram:</b> <a href="https://t.me/SDmytroV">@SDmytroV</a> |
 📧 <b>Email:</b> <a href="mailto:sokolovskydm@gmail.com">sokolovskydm@gmail.com</a>
-
 </p>
 
 <p align="center">
