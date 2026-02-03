@@ -64,6 +64,31 @@ I enjoy building clean UIs, integrating real-time features, and adding AI capabi
 
 ---
 
+### 📊 Stats & Activity
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/DmytroSokolovskyi">
+          <img src="https://github-readme-stats.vercel.app/api?username=DmytroSokolovskyi&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <div style="background: #1a1b27; color: #fff; padding: 20px; border-radius: 10px; border: 1px solid #1a1b27;">
+          <h4>💼 Professional Activity</h4>
+          <p align="left">Most of my daily contributions are made in <b>Bitbucket</b> (Corporate environment).</p>
+          <ul align="left">
+            <li>Daily active development</li>
+            <li>Code reviews & Architecture</li>
+            <li>High-traffic systems (50K+ DAU)</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ### 🏆 Key Achievements
 
 - 🚀 **Built and maintained platforms** serving **50K–100K+ daily users** with **99.9% uptime**
