@@ -40,17 +40,17 @@ I enjoy building clean UIs, integrating real-time features, and adding AI capabi
 
 ### 📊 GitHub Activity
 
-<div align="center" width="100%">
+<div align="center">
   <table border="0" width="100%" cellspacing="0" cellpadding="0">
     <tr>
       <td width="50%" align="center" style="padding-right: 5px;">
         <a href="https://github.com/DmytroSokolovskyi">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DmytroSokolovskyi&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" style="width: 100%; max-width: 495px;" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DmytroSokolovskyi&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" style="width: 100%; max-width: 485px;" />
         </a>
       </td>
       <td width="50%" align="center" style="padding-left: 5px;">
         <a href="https://github.com/DmytroSokolovskyi">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DmytroSokolovskyi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 100%; max-width: 495px;" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DmytroSokolovskyi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 100%; max-width: 485px;" />
         </a>
       </td>
     </tr>
@@ -61,16 +61,16 @@ I enjoy building clean UIs, integrating real-time features, and adding AI capabi
 
 ### 🏛️ Professional Workflow
 
-<div align="center" style="width: "90%">
-  <table border="0" width="90%" cellspacing="0" cellpadding="0">
+<div align="center">
+  <table border="0" width="100%" cellspacing="0" cellpadding="0">
     <tr>
       <td width="50%" align="center" style="vertical-align: middle; padding-right: 5px;">
         <a href="https://github.com/DmytroSokolovskyi">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DmytroSokolovskyi&show_icons=true&theme=radical&count_private=true&cache_bust=fix_style" alt="GitHub Stats Widget" style="width: 100%; max-width: 495px;" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DmytroSokolovskyi&show_icons=true&theme=radical&count_private=true&cache_bust=fix_style" alt="GitHub Stats Widget" style="width: 100%; max-width: 485px;" />
         </a>
       </td>
       <td width="50%" align="center" style="vertical-align: middle; padding-left: 5px;">
-        <div style="background: #1a1b27; color: #a9b1d6; padding: 15px 25px; border-radius: 4.5px; border: 1px solid #1a1b27; height: 165px; width: 100%; max-width: 495px; box-sizing: border-box; display: flex; flex-direction: column; justify-content: center; text-align: left;">
+        <div style="background: #1a1b27; color: #a9b1d6; padding: 15px 25px; border-radius: 4.5px; border: 1px solid #1a1b27; height: 165px; width: 100%; max-width: 485px; box-sizing: border-box; display: flex; flex-direction: column; justify-content: center; text-align: left;">
           <h4 style="margin-top: 0; margin-bottom: 8px; color: #fe428e; font-family: 'Segoe UI', Ubuntu, Sans-Serif;">Primary Workflow</h4>
           <p style="font-size: 13.5px; margin-bottom: 10px; line-height: 1.4;">
             As a Senior Developer, my major contributions are in a private corporate <b>Bitbucket</b> environment.
@@ -103,12 +103,10 @@ I enjoy building clean UIs, integrating real-time features, and adding AI capabi
 ### 📫 Let's Connect
 
 <div align="center">
-
 🌍 **Location:** Lviv, Ukraine  
 💼 **LinkedIn:** [Dmytro Sokolovskyi](https://www.linkedin.com/in/dmytro-sokolovskyi-944437220)  
 ✈️ **Telegram:** [@SDmytroV](https://t.me/SDmytroV)  
 📧 **Email:** [sokolovskydm@gmail.com](mailto:sokolovskydm@gmail.com)
-
 </div>
 
 <p align="center">
