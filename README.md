@@ -40,7 +40,7 @@ I enjoy building clean UIs, integrating real-time features, and adding AI capabi
 
 ### 📊 GitHub Activity
 
-<div align="center">
+<div align="center" width="100%">
   <table border="0" width="100%" cellspacing="0" cellpadding="0">
     <tr>
       <td width="50%" align="center" style="padding-right: 5px;">
@@ -61,7 +61,7 @@ I enjoy building clean UIs, integrating real-time features, and adding AI capabi
 
 ### 🏛️ Professional Workflow
 
-<div align="center">
+<div align="center" width="100%">
   <table border="0" width="100%" cellspacing="0" cellpadding="0">
     <tr>
       <td width="50%" align="center" style="vertical-align: middle; padding-right: 5px;">
