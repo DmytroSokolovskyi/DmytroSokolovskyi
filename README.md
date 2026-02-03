@@ -57,12 +57,12 @@ I enjoy building clean UIs, integrating real-time features, and adding AI capabi
 <tr>
 <td width="50%" align="center" style="vertical-align: middle;">
 <a href="https://github.com/DmytroSokolovskyi">
-<img src="https://www.google.com/search?q=https://github-readme-stats-sigma-five.vercel.app/api%3Fusername%3DDmytroSokolovskyi%26show_icons%3Dtrue%26theme%3Dradical%26count_private%3Dtrue%26cache_bust%3D3" width="100%" alt="GitHub Stats Widget" />
+<img src="https://www.google.com/search?q=https://github-readme-stats-sigma-five.vercel.app/api%3Fusername%3DDmytroSokolovskyi%26show_icons%3Dtrue%26theme%3Dradical%26count_private%3Dtrue%26cache_bust%3D7" width="100%" alt="GitHub Stats Widget" />
 </a>
 </td>
 <td width="50%" align="center" style="vertical-align: middle;">
-<div style="background-color: #1a1b27; color: #a9b1d6; padding: 20px; border-radius: 5px; border: 1px solid #1a1b27; min-height: 165px; box-sizing: border-box; text-align: left;">
-<h4 style="margin-top: 0; color: #fe428e;">Primary Workflow</h4>
+<div style="background-color: #1a1b27; color: #a9b1d6; padding: 20px; border-radius: 5px; border: 1px solid #1a1b27; min-height: 165px; box-sizing: border-box; text-align: left; margin-left: 5px;">
+<h4 style="margin-top: 0; color: #fe428e; font-family: Segoe UI, Ubuntu, sans-serif;">Primary Workflow</h4>
 <p style="font-size: 14px; margin-bottom: 8px;">
 As a Senior Developer, my major contributions are in a private corporate <b>Bitbucket</b> environment.
 </p>
