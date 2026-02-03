@@ -58,11 +58,6 @@ I enjoy building clean UIs, integrating real-time features, and adding AI capabi
     </tr>
   </table>
   
-  <br/>
-
-  <a href="https://github.com/DmytroSokolovskyi">
-    <img width="100%" src="https://streak-stats.demolab.com/?user=DmytroSokolovskyi&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
 </div>
 
 ---
