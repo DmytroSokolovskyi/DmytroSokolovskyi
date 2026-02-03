@@ -42,24 +42,18 @@ I enjoy building clean UIs, integrating real-time features, and adding AI capabi
 
 
 <div align="center">
-  <table border="0">
+  <table border="0" width="100%">
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/DmytroSokolovskyi">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmytroSokolovskyi&theme=radical" alt="GitHub Profile Details" />
-        </a>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmytroSokolovskyi&theme=radical" alt="Dmytro's GitHub Details" />
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/DmytroSokolovskyi">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=DmytroSokolovskyi&theme=radical" alt="Most Used Languages" />
-        </a>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=DmytroSokolovskyi&theme=radical&force_reload=1" alt="Most Used Languages" />
       </td>
     </tr>
   </table>
-
-  <a href="https://github.com/DmytroSokolovskyi">
-    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmytroSokolovskyi&theme=radical" alt="Overall Stats" />
-  </a>
+  <br/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmytroSokolovskyi&theme=radical" alt="Dmytro's Overall GitHub Stats" />
 </div>
 
 ---
@@ -69,26 +63,27 @@ I enjoy building clean UIs, integrating real-time features, and adding AI capabi
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%" align="center">
+      <td width="55%" align="center" style="vertical-align: middle;">
         <a href="https://github.com/DmytroSokolovskyi">
-          <img src="https://github-readme-stats.vercel.app/api?username=DmytroSokolovskyi&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=DmytroSokolovskyi&show_icons=true&theme=radical&count_private=true&cache_bust=fix" alt="GitHub Stats Widget" style="max-width: 100%;" />
         </a>
       </td>
-      <td width="50%" align="center">
-        <div style="background: #1a1b27; color: #fff; padding: 20px; border-radius: 10px; border: 1px solid #1a1b27;">
-          <h4>💼 Professional Activity</h4>
-          <p align="left">Most of my daily contributions are made in <b>Bitbucket</b> (Corporate environment).</p>
-          <ul align="left">
-            <li>Daily active development</li>
-            <li>Code reviews & Architecture</li>
-            <li>High-traffic systems (50K+ DAU)</li>
+      <td width="45%" align="left" style="vertical-align: middle;">
+        <div style="background: #141321; color: #c9d1d9; padding: 15px 20px; border-radius: 10px; border: 1px solid #30363d; height: 165px; box-sizing: border-box; display: flex; flex-direction: column; justify-content: center;">
+          <h4 style="margin-top: 0; margin-bottom: 10px; color: #ff79c6;">🏛️ Primary Workflow</h4>
+          <p style="font-size: 14px; margin-bottom: 10px;">
+            As a Senior Developer, my major contributions are in a private corporate <b>Bitbucket</b> environment.
+          </p>
+          <ul style="font-size: 13px; padding-left: 20px; margin: 0;">
+            <li>Daily Active Development</li>
+            <li>Architecture & Code Reviews</li>
+            <li>High-traffic Systems (100K+ DAU)</li>
           </ul>
         </div>
       </td>
     </tr>
   </table>
 </div>
-
 ### 🏆 Key Achievements
 
 - 🚀 **Built and maintained platforms** serving **50K–100K+ daily users** with **99.9% uptime**
