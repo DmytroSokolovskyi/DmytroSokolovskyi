@@ -12,7 +12,111 @@
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 <a href="https://github.com/DmytroSokolovskyi" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <table border="0" width="100%" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="50%" align="center" style="padding-right: 5px;">
+        <a href="https://github.com/DmytroSokolovskyi">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DmytroSokolovskyi&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" style="width: 100%; max-width: 495px;" />
+        </a>
+      </td>
+      <td width="50%" align="center" style="padding-left: 5px;">
+        <a href="https://github.com/DmytroSokolovskyi">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DmytroSokolovskyi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 100%; max-width: 495px;" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🏛️ Professional Workflow
+
+<div align="center">
+  <table border="0" width="100%" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="50%" align="center" style="vertical-align: middle; padding-right: 5px;">
+        <a href="https://github.com/DmytroSokolovskyi">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DmytroSokolovskyi&show_icons=true&theme=radical&count_private=true&cache_bust=fix_style" alt="GitHub Stats Widget" style="width: 100%; max-width: 495px;" />
+        </a>
+      </td>
+      <td width="50%" align="center" style="vertical-align: middle; padding-left: 5px;">
+        <div style="background: #1a1b27; color: #a9b1d6; padding: 15px 25px; border-radius: 4.5px; border: 1px solid #1a1b27; height: 165px; width: 100%; max-width: 495px; box-sizing: border-box; display: flex; flex-direction: column; justify-content: center; text-align: left;">
+          <h4 style="margin-top: 0; margin-bottom: 8px; color: #fe428e; font-family: 'Segoe UI', Ubuntu, Sans-Serif;">Primary Workflow</h4>
+          <p style="font-size: 13.5px; margin-bottom: 10px; line-height: 1.4;">
+            As a Senior Developer, my major contributions are in a private corporate <b>Bitbucket</b> environment.
+          </p>
+          <ul style="font-size: 12.5px; padding-left: 18px; margin: 0; color: #a9b1d6;">
+            <li>Daily Active Development</li>
+            <li>Architecture & Code Reviews</li>
+            <li>High-traffic Systems (100K+ DAU)</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <table border="0" width="100%" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="50%" align="center" style="padding-right: 5px;">
+        <a href="https://github.com/DmytroSokolovskyi">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DmytroSokolovskyi&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" style="width: 100%; max-width: 495px;" />
+        </a>
+      </td>
+      <td width="50%" align="center" style="padding-left: 5px;">
+        <a href="https://github.com/DmytroSokolovskyi">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DmytroSokolovskyi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 100%; max-width: 495px;" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🏛️ Professional Workflow
+
+<div align="center">
+  <table border="0" width="100%" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="50%" align="center" style="vertical-align: middle; padding-right: 5px;">
+        <a href="https://github.com/DmytroSokolovskyi">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DmytroSokolovskyi&show_icons=true&theme=radical&count_private=true&cache_bust=fix_style" alt="GitHub Stats Widget" style="width: 100%; max-width: 495px;" />
+        </a>
+      </td>
+      <td width="50%" align="center" style="vertical-align: middle; padding-left: 5px;">
+        <div style="background: #1a1b27; color: #a9b1d6; padding: 15px 25px; border-radius: 4.5px; border: 1px solid #1a1b27; height: 165px; width: 100%; max-width: 495px; box-sizing: border-box; display: flex; flex-direction: column; justify-content: center; text-align: left;">
+          <h4 style="margin-top: 0; margin-bottom: 8px; color: #fe428e; font-family: 'Segoe UI', Ubuntu, Sans-Serif;">Primary Workflow</h4>
+          <p style="font-size: 13.5px; margin-bottom: 10px; line-height: 1.4;">
+            As a Senior Developer, my major contributions are in a private corporate <b>Bitbucket</b> environment.
+          </p>
+          <ul style="font-size: 12.5px; padding-left: 18px; margin: 0; color: #a9b1d6;">
+            <li>Daily Active Development</li>
+            <li>Architecture & Code Reviews</li>
+            <li>High-traffic Systems (100K+ DAU)</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+
 </a>
 </p>
 
